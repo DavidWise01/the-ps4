@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Jaguar Cores",
+  "universe": "PS4 · The Jaguar Cores (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The Jaguar Cores:PS4:c42547⟧",
+  "carbon": "the-ps4-cpu.carbon.tiff (TIFF)",
+  "silicon": "the-ps4-cpu.silicon.png (PNG)",
+  "seal_sha256": "29c882a6c66bf0cb81762af101584b0ffebb0f91de19c75b8b5ce3811560b3eb",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Blu-ray Drive",
+  "universe": "PS4 · The Blu-ray Drive (exereunesis)",
+  "emergence": "natural",
+  "moniker": "⟦The Blu-ray Drive:PS4:532187⟧",
+  "carbon": "the-ps4-bluray.carbon.tiff (TIFF)",
+  "silicon": "the-ps4-bluray.silicon.png (PNG)",
+  "seal_sha256": "579e44da82e25104c70d83cc880780f86a082b13013d1e11d7a6deccc4c8f793",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

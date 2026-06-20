@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The APU",
+  "universe": "PS4 · The APU (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The APU:PS4:1d1358⟧",
+  "carbon": "the-ps4-apu.carbon.tiff (TIFF)",
+  "silicon": "the-ps4-apu.silicon.png (PNG)",
+  "seal_sha256": "bc5d235d09a19027ee4add765098c770c992dd8da85418f55fe20b75d8bb756c",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

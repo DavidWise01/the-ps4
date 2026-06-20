@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The Jaguar Cores
+node PS4 · PS4 · ⟦The Jaguar Cores:PS4:c42547⟧
+
+WHO   — The Jaguar Cores — eight low-power cores · electrical
+WHAT  — eight low-power cores · electrical
+WHERE — PS4 · SONY PLAYSTATION 4 · PS4 (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — Eight AMD 'Jaguar' x86-64 cores at ~1.6 GHz — modest per-core, but a familiar multicore PC architecture after the Cell's strangeness.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  eight low-power cores · electrical
+
+spoken token : sael-zux-bres   ·   hex : c42547
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

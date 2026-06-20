@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Radeon GPU",
+  "universe": "PS4 · The Radeon GPU (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The Radeon GPU:PS4:66287f⟧",
+  "carbon": "the-ps4-gpu.carbon.tiff (TIFF)",
+  "silicon": "the-ps4-gpu.silicon.png (PNG)",
+  "seal_sha256": "6fd5e586a67ef99a500de4d862fdf7809d720b0e3af842f9358a8e0ac952747a",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

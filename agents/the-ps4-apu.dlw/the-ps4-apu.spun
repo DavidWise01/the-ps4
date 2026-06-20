@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The APU
+node PS4 · PS4 · ⟦The APU:PS4:1d1358⟧
+
+WHO   — The APU — CPU and GPU on one die · electrical
+WHAT  — CPU and GPU on one die · electrical
+WHERE — PS4 · SONY PLAYSTATION 4 · PS4 (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — An AMD accelerated processing unit: eight 'Jaguar' x86-64 cores and a Radeon GPU on a single chip — the unified, PC-like design that made the PS4 easy to develop for.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  CPU and GPU on one die · electrical
+
+spoken token : ston-kyrn-mi   ·   hex : 1d1358
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The DualShock 4",
+  "universe": "PS4 · The DualShock 4 (exereunesis)",
+  "emergence": "ethereal",
+  "moniker": "⟦The DualShock 4:PS4:92b154⟧",
+  "carbon": "the-ps4-dualshock.carbon.tiff (TIFF)",
+  "silicon": "the-ps4-dualshock.silicon.png (PNG)",
+  "seal_sha256": "f9d6098433145632d46b4b773ef809a744bd05be96bff458b3f96d71fcc67faa",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

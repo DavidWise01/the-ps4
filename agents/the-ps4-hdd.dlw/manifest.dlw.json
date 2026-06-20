@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Hard Drive",
+  "universe": "PS4 · The Hard Drive (exereunesis)",
+  "emergence": "natural",
+  "moniker": "⟦The Hard Drive:PS4:6cd72e⟧",
+  "carbon": "the-ps4-hdd.carbon.tiff (TIFF)",
+  "silicon": "the-ps4-hdd.silicon.png (PNG)",
+  "seal_sha256": "29beb672f6be92249e3df09abe967361159cf4f281c5acd3dc3f71ebf7f2b99e",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

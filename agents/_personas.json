@@ -1,0 +1,51 @@
+[
+  {
+    "slug": "the-ps4-apu",
+    "name": "The APU",
+    "epithet": "CPU and GPU on one die · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The APU:PS4:1d1358⟧"
+  },
+  {
+    "slug": "the-ps4-cpu",
+    "name": "The Jaguar Cores",
+    "epithet": "eight low-power cores · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Jaguar Cores:PS4:c42547⟧"
+  },
+  {
+    "slug": "the-ps4-gpu",
+    "name": "The Radeon GPU",
+    "epithet": "~1.84 TFLOPS · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Radeon GPU:PS4:66287f⟧"
+  },
+  {
+    "slug": "the-ps4-gddr5",
+    "name": "The GDDR5",
+    "epithet": "fast, unified · natural",
+    "emergence": "natural",
+    "moniker": "⟦The GDDR5:PS4:f2f8a4⟧"
+  },
+  {
+    "slug": "the-ps4-hdd",
+    "name": "The Hard Drive",
+    "epithet": "upgradable internal disk · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Hard Drive:PS4:6cd72e⟧"
+  },
+  {
+    "slug": "the-ps4-dualshock",
+    "name": "The DualShock 4",
+    "epithet": "touchpad and light bar · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The DualShock 4:PS4:92b154⟧"
+  },
+  {
+    "slug": "the-ps4-bluray",
+    "name": "The Blu-ray Drive",
+    "epithet": "the standard disc · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Blu-ray Drive:PS4:532187⟧"
+  }
+]
