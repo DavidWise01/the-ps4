@@ -4,6 +4,6 @@ slug  : the-ps4
 seal  : 38c58f90a457a3a30d5e824ac31a01d409b1b900a4407e689f33b021e3d0487d
 prev  : f41530ce8992424c3db0af8fe869fce2b23325437044775a2398812f247c8820
 link  : 60842ee189369e975f1348ff560f70f8e7f6357aa7c40bae2f7867efc872b932
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
